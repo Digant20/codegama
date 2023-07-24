@@ -1,0 +1,41 @@
+.navbar{
+    background-color: #2874F0;
+    color: white;
+
+    padding: 10px 20px;
+
+}
+
+.product-link{
+    color: white;
+    
+}
+.nav-links {
+    
+   color: white; 
+}
+
+
+.nav-links:hover {
+    
+    color: white; 
+}
+
+
+.arrow-icons{
+    font-size: 20;
+    color: white
+}
+
+
+.brand-name{
+
+    color: white;
+    
+}
+
+
+.parent-div{
+   padding: 80px 50px 0px 50px;
+}
+
